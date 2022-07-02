@@ -1,4 +1,4 @@
-<p align="left">Hello! I am Hetansh Patel an aspiring full-stack software developer.</p>
+<p align="left">Hello! I am Hetansh Patel an aspiring full-stack developer.</p>
 
 ###
 
