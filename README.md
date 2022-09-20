@@ -50,12 +50,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Hetansh3700/Hetansh3700/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Hetansh3700/count.svg?"  />
 </div>
@@ -66,3 +60,4 @@
 </div>
 
 ###
+Profile Readme Generator
